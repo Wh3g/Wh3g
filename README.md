@@ -1,59 +1,38 @@
-## Your Name
+## Willoughby Hood
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+I'm an aspiring software developer who is currently enrolled in Makers Academy and looking for entry level jobs as a Full Stack Engineer. I have knowledge and experience in languages such as Ruby, Python, C, SQL, and HTML & CSS
 
-## Projects
-
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+[LinkedIn](https://www.linkedin.com/in/willoughby-h-b37855131/) | <willoughbyhood29@googlmail.com>
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Simply Business** (October 2019 to December 2020)  
+_eCRM Apprentice_
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+- Worked in the eCRM team, primarily focussed on email marketing, running numerous successful email campaigns including the monthly newsletter which involved some HTML and CSS. This also involved managing the data for those campaigns, using Looker as well as SQL
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Thomas's Battersea** (April 2018 to July 2018)  
+_Gap Year Teaching Assistant_
 
-- Any experience relevent to software development
+- On hand to support wherever needed, both in classroom and on the sports field, as well with more admin based tasks, such as working in the admissions department. Responsible for organising of teams, supervising activities, pastoral care
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
+#### Attention to detail
 
--STAR
--What was the situation/task? (ST)
+At Simply Business, in my role as eCRM apprentice attention to detail was key, since we were sending emails to thousands of people we would have to peer review all campaigns before they were sent out, this was to ensure that the copy was correct, the links in the emails worked properly, and the audience data was correct (i.e. the emails were going to the right people). In addition, we also ran many A/B tests in our campaigns to optimise them and make each one more effective and deliver more value for the company; this involved scrutiny of the engagement data, and measuring Key Performance Indicators such as open and click rates.
 
--How was the skill used?
+#### Working under pressure
 
--What did you do? (action)
+As eCRM Apprentice at Simply Business, I was often given projects with very short turnarounds and immovable deadlines, for example on a number of occasions I was given the task of building an entire email campaign in a single day, which involved coordinating various stakeholders to gather the content required and building the email and the data in order to send it off to the targeted audience, which often numbered up to more than 800,000 recipients.
 
--What was the result?
+#### Leadership
 
-
-#### This Skill
-
-- Experience
-- Achievements
-- Evidence (STAR)
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+At secondary school I was the coxswain for the school's rowing squad, which encompassed a number of different roles; as well as steering the boat, I had to decide racing tactics, motivate the crew during a race, and act as the coach for the crew to ensure their technique was up to scratch.
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (April 2021 to July 2021)
 - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
 - e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
 - you might also mention aspects some other skills/knowledge listed below: 
@@ -62,16 +41,20 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### 42 Silicon Valley(October 2018 to November 2018)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Intensive 4-week computer programming bootcamp focussed on C and command line
+- 50% of participants drop out after the first week
 
 #### Any other qualifications
 
-That in some arguable way make you a better software developer or well-rounded person
+- Learn Ruby Course - Codecademy - March 2021
+- Learn SQL Course - Codecademy - October 2019
+- Web design with HTML and CSS - London Academy of IT - March 2019
+- Computer Science Course - Codecademy - Work in Progress
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+- Golf
+- Qualified Open Water Diver
+- Coxswain for 1st VIII and 1st IV for Bryanston School Boat Club
