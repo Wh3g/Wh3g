@@ -33,12 +33,11 @@ At secondary school I was the coxswain for the school's rowing squad, which enco
 ## Education
 
 #### Makers Academy (April 2021 to July 2021)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
+
+- 16 week long coding bootcamp teaching Ruby, Command line and git, not to mention valuable tuition in coding best practices such as pair programming and test driven development
 - OOP, TDD, MVC, DDD
 - Agile/XP
-- Ruby, Rails, JavaScript
+- Ruby, command line, git
 - RSpec, Jasmine
 
 #### 42 Silicon Valley(October 2018 to November 2018)
