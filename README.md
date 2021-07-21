@@ -1,6 +1,6 @@
 ## Willoughby Hood
 
-I'm an aspiring software developer who is currently enrolled in Makers Academy and looking for entry level jobs as a Full Stack Engineer. I have knowledge and experience in languages such as Ruby, Python, C, SQL, and HTML & CSS
+I'm an aspiring software developer who is currently enrolled in Makers Academy and looking for entry level jobs as a Full Stack Engineer. I have knowledge and experience in languages such as Ruby, Python, JavaScript. C, SQL, and HTML & CSS
 
 [LinkedIn](https://www.linkedin.com/in/willoughby-h-b37855131/) | <willoughbyhood29@googlmail.com>
 
