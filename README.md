@@ -1,8 +1,15 @@
-## Willoughby Hood
+# Willoughby Hood
 
-I'm an aspiring software developer who is currently enrolled in Makers Academy and looking for entry level jobs as a Full Stack Engineer. I have knowledge and experience in languages such as Ruby, Python, JavaScript. C, SQL, and HTML & CSS
+I'm an aspiring software developer who recently graduated from Makers Academy and looking for entry level jobs as a Full Stack/Back-end Engineer. I have  in languages such as Ruby, Python, JavaScript. C, SQL, and HTML & CSS
 
 [LinkedIn](https://www.linkedin.com/in/willoughby-h-b37855131/) | <willoughbyhood29@googlmail.com>
+
+## Projects
+
+|     Project    |            Tech           |                                         Description                                         |
+|:--------------:|:-------------------------:|:-------------------------------------------------------------------------------------------:|
+| [Tavern Keepers](https://github.com/jennybell/dnd-finder.git) | Ruby on Rails, JavaScript | A Social Networking web-app where DnD players can meet each other online and organise games |
+|     [Acebook](https://github.com/mvgame74/acebook-rails-The-Wallies.git)    |       Ruby on Rails       |                     A web-app that clones the main features of Facebook                     |
 
 ## Work Experience
 
@@ -24,7 +31,7 @@ At Simply Business, in my role as eCRM apprentice attention to detail was key, s
 
 #### Working under pressure
 
-As eCRM Apprentice at Simply Business, I was often given projects with very short turnarounds and immovable deadlines, for example on a number of occasions I was given the task of building an entire email campaign in a single day, which involved coordinating various stakeholders to gather the content required and building the email and the data in order to send it off to the targeted audience, which often numbered up to more than 800,000 recipients.
+As eCRM Apprentice at Simply Business, I was often given projects with very short turnarounds and immovable deadlines, for example on a number of occasions I was given the task of building an entire email campaign in a single day, which involved coordinating various stakeholders to gather the content required and building the email and the data in order to send it off to the targeted audience, which often numbered up to more than 800,000 recipients per month.
 
 #### Leadership
 
@@ -37,7 +44,7 @@ At secondary school I was the coxswain for the school's rowing squad, which enco
 - 16 week long coding bootcamp teaching Ruby, Command line and git, not to mention valuable tuition in coding best practices such as pair programming and test driven development
 - OOP, TDD, MVC, DDD
 - Agile/XP
-- Ruby, command line, git
+- Ruby, JavaScript, Rails, command line, git
 - RSpec, Jasmine
 
 #### 42 Silicon Valley(October 2018 to November 2018)
