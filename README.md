@@ -1,8 +1,11 @@
 # Willoughby Hood
 
-I'm an aspiring software developer who recently graduated from Makers Academy and looking for entry level jobs as a Full Stack/Back-end Engineer. I have  in languages such as Ruby, Python, JavaScript. C, SQL, and HTML & CSS
+I'm an aspiring software developer recently graduated from Makers Academy, and currently seeking jobs as either a Full Stack or Back end Developer.
+I have experience in a number of different languages and technologies such as Ruby on Rails, Python, and Javascript. Before joining Makers I worked in email marketing as well as working for a primary school as a teaching assistant.
 
-[LinkedIn](https://www.linkedin.com/in/willoughby-h-b37855131/) | <willoughbyhood29@googlmail.com>
+## Contacts
+
+[LinkedIn](https://www.linkedin.com/in/willoughby-h-b37855131/) | <willoughbyhood29@googlmail.com> 
 
 ## Projects
 
