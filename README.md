@@ -16,15 +16,20 @@ I have experience in a number of different languages and technologies such as Ru
 
 ## Work Experience
 
+**Makers Academy** (April 2021 to July 2021)
+_Software Development Bootcamp graduate_
+
+- 16 week bootcamp learning Ruby, Ruby on Rails and JavaScript, plus valuable tuition learning coding practices such as Agile development, pair programming, and coordinating with others in a group to complete big projects
+
 **Simply Business** (October 2019 to December 2020)  
 _eCRM Apprentice_
 
-- Worked in the eCRM team, primarily focussed on email marketing, running numerous successful email campaigns including the monthly newsletter which involved some HTML and CSS. This also involved managing the data for those campaigns, using Looker as well as SQL
+- Worked in the eCRM team, primarily focussed on email marketing, running numerous successful email campaigns including the monthly newsletter, which on its own was sent to over 800k recipients per month. This required high attention to detail and involved coordinating with multiple other teams to get email campaigns ready to send on time.
 
 **Thomas's Battersea** (April 2018 to July 2018)  
 _Gap Year Teaching Assistant_
 
-- On hand to support wherever needed, both in classroom and on the sports field, as well with more admin based tasks, such as working in the admissions department. Responsible for organising of teams, supervising activities, pastoral care
+- On hand to support wherever needed, both in classroom and on the sports field, as well with more admin based tasks, such as working in the admissions department. Responsible for organising of teams, supervising activities, pastoral care.
 
 ## Skills
 
