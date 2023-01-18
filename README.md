@@ -15,7 +15,7 @@ I have experience in a number of different languages and technologies such as Ru
 |     [Acebook](https://github.com/Wh3g/Acebook-The-Wallies.git)    |       Ruby on Rails       |                     A web-app that clones the main features of Facebook                     |
 | [Oh Hell Scorecard](https://github.com/Wh3g/oh_hell_scorer.git) | Ruby, Sinatra | A web-app where you can record the scores for the card game Oh Hell (also known as Whyst) |
 
-![Willoughby Hood's GitHub stats](https://github-readme-stats.vercel.app/api?username=wh3g&show_icons=true&theme=radical)
+![Willoughby Hood's GitHub stats](https://github-readme-stats-ruby-one.vercel.app/api?username=wh3g&show_icons=true&theme=radical)
 
 ## Work Experience
 
