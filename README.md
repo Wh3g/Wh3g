@@ -15,12 +15,17 @@ I have experience in a number of different languages and technologies such as Ru
 |     [Acebook](https://github.com/Wh3g/Acebook-The-Wallies.git)    |       Ruby on Rails       |                     A web-app that clones the main features of Facebook                     |
 | [Oh Hell Scorecard](https://github.com/Wh3g/oh_hell_scorer.git) | Ruby, Sinatra | A web-app where you can record the scores for the card game Oh Hell (also known as Whyst) |
 
-![Willoughby Hood's GitHub stats](https://github-readme-stats-ruby-one.vercel.app/api?username=wh3g&show_icons=true&theme=radical)
+<!-- ![Willoughby Hood's GitHub stats](https://github-readme-stats-ruby-one.vercel.app/api?username=wh3g&show_icons=true&theme=radical) -->
 
 ## Work Experience
 
+**Self Employed** (October 2022 to Present)
+_Freelance Software Developer_
+
+- Currently working directly with clients to build software to fit their specific needs, working on both front end and back end, as well as taking responsibility for the design of the website/app.
+
 **Makers Academy** (April 2021 to July 2021)
-_Software Development Bootcamp graduate_
+_Software Development Bootcamp Graduate_
 
 - 16 week bootcamp learning Ruby, Ruby on Rails and JavaScript, plus valuable tuition learning coding practices such as Agile development, pair programming, and coordinating with others in a group to complete big projects
 
