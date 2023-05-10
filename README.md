@@ -5,7 +5,7 @@ I have experience in a number of different languages and technologies such as Ru
 
 ## Contacts
 
-[LinkedIn](https://www.linkedin.com/in/willoughbyhood/) | <willoughbyhood29@googlemail.com> 
+[Linkedin](https://www.linkedin.com/in/willoughbyhood/) | <willoughbyhood29@googlemail.com> 
 
 ## Projects
 
