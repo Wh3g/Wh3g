@@ -1,7 +1,7 @@
 # Willoughby Hood
 
-I'm an aspiring software developer recently graduated from Makers Academy, and currently seeking jobs as either a Full Stack or Back end Developer.
-I have experience in a number of different languages and technologies such as Ruby on Rails, Python, and Javascript. Before joining Makers I worked in email marketing as well as working for a primary school as a teaching assistant.
+I'm currently a Software Pioneer in Albany Beck's Tech Academy, focussing on skills such as Java, Python, and SQL. Previously completed a Software Development BootCamp with Makers Academy.
+I have experience in a number of different languages and technologies such as Java, Ruby on Rails, Python, and Javascript. Before joining Makers I worked in email marketing as well as working for a primary school as a teaching assistant.
 
 ## Contacts
 
@@ -20,10 +20,10 @@ I have experience in a number of different languages and technologies such as Ru
 
 ## Work Experience
 
-**Self Employed** (October 2022 to Present)
-_Freelance Software Developer_
+**Albany Beck** (April 2023 to Present)
+_Pioneer Junior Software Developer_
 
-- Currently working directly with clients to build software to fit their specific needs, working on both front end and back end, as well as taking responsibility for the design of the website/app.
+- Currently enrolled in Albany Beck's Tech Academy, focussing on technologies such as Java, MySql and Python, as well as Spring Boot and Jira, and building projects such as Web Applications and RESTful APIs to an industry standard
 
 **Makers Academy** (April 2021 to July 2021)
 _Software Development Bootcamp Graduate_
