@@ -11,9 +11,9 @@ I have experience in a number of different languages and technologies such as Ja
 
 |     Project    |            Tech           |                                         Description                                         |
 |:--------------:|:-------------------------:|:-------------------------------------------------------------------------------------------:|
+| [Booking System API](https://github.com/Wh3g/haircut_booking.git) | Java, Spring Boot | An API for a booking application where users can save their details and make bookings that are saved in a database |
 | [Tavern Keepers](https://github.com/jennybell/dnd-finder.git) | Ruby on Rails, JavaScript | A Social Networking web-app where DnD players can meet each other online and organise games |
 |     [Acebook](https://github.com/Wh3g/Acebook-The-Wallies.git)    |       Ruby on Rails       |                     A web-app that clones the main features of Facebook                     |
-| [Booking System API](https://github.com/Wh3g/haircut_booking.git) | Java, Spring Boot | An API for a booking application where users can save their details and make bookings that are saved in a database |
 <!-- | [Booking Application](https://github.com/Wh3g/booking_cal_web.git) | Ruby on Rails, React Native | (Work in progress) A booking system for a hairdressing business,  where customers can book appointments online, and the client can manage their calendar on a mobile app | -->
 
 <!-- ![Willoughby Hood's GitHub stats](https://github-readme-stats-ruby-one.vercel.app/api?username=wh3g&show_icons=true&theme=radical) -->
