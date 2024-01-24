@@ -23,12 +23,12 @@ I have experience in a number of different languages and technologies such as Ja
 **Albany Beck** (April 2023 to Present)
 _Pioneer Junior Software Developer_
 
-- Currently enrolled in Albany Beck's Tech Academy, focussing on technologies such as Java, MySql and Python, as well as Spring Boot and Jira, and building projects such as Web Applications and RESTful APIs to an industry standard
+- Currently enrolled in Albany Beck's Tech Academy, focussing on technologies such as Java, MySql and Python, as well as Spring Boot and Jira, and building projects such as Web Applications and RESTful APIs to an industry standard.
 
 **Makers Academy** (April 2021 to July 2021)
 _Software Development Bootcamp Graduate_
 
-- 16 week bootcamp learning Ruby, Ruby on Rails and JavaScript, plus valuable tuition learning coding practices such as Agile development, pair programming, and coordinating with others in a group to complete big projects
+- 16 week bootcamp learning Ruby, Ruby on Rails and JavaScript, plus valuable tuition learning coding practices such as Agile development, pair programming, and coordinating with others in a group to complete big projects.
 
 **Simply Business** (October 2019 to December 2020)  
 _eCRM Apprentice_
