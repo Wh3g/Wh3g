@@ -1,6 +1,6 @@
 # Willoughby Hood
 
-I'm currently a Software Pioneer in Albany Beck's Tech Academy, focussing on skills such as Java, Python, and SQL. Previously completed a Software Development BootCamp with Makers Academy.
+I'm currently a Intern at AutogenAI. Previously completed a Software Development BootCamp with Makers Academy.
 I have experience in a number of different languages and technologies such as Java, Ruby on Rails, Python, and Javascript. Before joining Makers I worked in email marketing as well as working for a primary school as a teaching assistant.
 
 ## Contacts
@@ -20,10 +20,15 @@ I have experience in a number of different languages and technologies such as Ja
 
 ## Work Experience
 
-**Albany Beck** (April 2023 to Present)
-_Pioneer Junior Software Developer_
+**AutogenAI** (March 2024 to Present)
+_Data Engineering Intern_
 
-- Currently enrolled in Albany Beck's Tech Academy, focussing on technologies such as Java, MySql and Python, as well as Spring Boot and Jira, and building projects such as Web Applications and RESTful APIs to an industry standard.
+- Internship with AutogenAI's Data team, focussing on improving automation and alerting. Working with technologies such as AWS, Python, and Docker.
+
+**Albany Beck** (April 2023 to March 2024)
+_Software Pioneer_
+
+- Enrolled in Albany Beck's Tech Academy, focussing on technologies such as Java, MySql and Python, as well as Spring Boot and Jira, and building projects such as Web Applications and RESTful APIs to an industry standard.
 
 **Makers Academy** (April 2021 to July 2021)
 _Software Development Bootcamp Graduate_
