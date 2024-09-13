@@ -20,11 +20,12 @@ I have experience in a number of different languages and technologies such as Ja
 
 ## Work Experience
 
-**AutogenAI** (March 2024 to Present)
+**AutogenAI** (September 2024 to Present)
 _Graduate Data Engineer_
 
 - Promoted to full time role, with responsibilities such as maintaining the data platform's reliability, and building applications to integrate external data with the platform
 
+**AutogenAI** (March 2024 to September 2021)
 _Data Engineering Intern_
 
 - Internship with AutogenAI's Data team, focussing on improving automation and alerting. Working with technologies such as AWS, Python, and Docker.
