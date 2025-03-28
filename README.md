@@ -1,6 +1,6 @@
 # Willoughby Hood
 
-I'm currently a Intern at AutogenAI. Previously completed a Software Development BootCamp with Makers Academy.
+I'm currently a Data Engineer at AutogenAI. Previously completed a Software Development BootCamp with Makers Academy.
 I have experience in a number of different languages and technologies such as Java, Ruby on Rails, Python, and Javascript. Before joining Makers I worked in email marketing as well as working for a primary school as a teaching assistant.
 
 ## Contacts
