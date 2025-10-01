@@ -55,16 +55,24 @@ _eCRM Apprentice_
 
 #### Attention to detail
 
-At Simply Business, in my role as eCRM apprentice attention to detail was key, since we were sending emails to thousands of people we would have to peer review all campaigns before they were sent out, this was to ensure that the copy was correct, the links in the emails worked properly, and the audience data was correct (i.e. the emails were going to the right people). In addition, we also ran many A/B tests in our campaigns to optimise them and make each one more effective and deliver more value for the company; this involved scrutiny of the engagement data, and measuring Key Performance Indicators such as open and click rates.
+- Refactored legacy integrations at AutogenAI to eliminate duplicated logic and reduce tech debt  
+- Introduced unit and integration testing across pipelines to prevent regressions and improve reliability  
+- Designed and optimised data storage structures to improve query times from minutes to seconds
 
 #### Working under pressure
+- Delivered performance fixes to production pipelines while maintaining ongoing platform reliability  
+- Built new data integrations end-to-end with tight timelines and no additional engineering support  
+- Reduced integration build time from a week to less than a day through redesign and automation
 
-As eCRM Apprentice at Simply Business, I was often given projects with very short turnarounds and immovable deadlines, for example on a number of occasions I was given the task of building an entire email campaign in a single day, which involved coordinating various stakeholders to gather the content required and building the email and the data in order to send it off to the targeted audience, which often numbered up to more than 800,000 recipients per month.
+#### Ownership and autonomy
+- Sole Data Engineer responsible for the company’s full data platform, from ingestion to reporting  
+- Delivered projects that would normally involve product managers, analytics engineers, and platform teams  
+- Scoped, prioritised, and delivered improvements without external technical dependencies
 
-#### Leadership
-
-At secondary school I was the coxswain for the school's rowing squad, which encompassed a number of different roles; as well as steering the boat, I had to decide racing tactics, motivate the crew during a race, and act as the coach for the crew to ensure their technique was up to scratch.
-
+#### Collaboration
+- Worked directly with finance, product, and leadership teams to translate requirements into data solutions  
+- Coordinated with non-technical stakeholders to deliver integrations and reporting automations  
+- Improved internal processes and documentation to support future scaling
 ## Education
 
 #### Makers Academy (April 2021 to July 2021)
