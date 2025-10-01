@@ -7,8 +7,6 @@ I have experience in a number of different languages and technologies such as Ja
 
 [Linkedin](https://www.linkedin.com/in/willoughbyhood/) | <willoughbyhood29@googlemail.com> 
 
-![Willoughby Hood's GitHub stats](https://github-readme-stats-ruby-one.vercel.app/api?username=wh3g&show_icons=true&theme=radical)
-
 ## Work Experience
 
 **AutogenAI** (September 2024 to Present)
