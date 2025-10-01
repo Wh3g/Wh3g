@@ -21,19 +21,25 @@ I have experience in a number of different languages and technologies such as Ja
 ## Work Experience
 
 **AutogenAI** (September 2024 to Present)
-_Graduate Data Engineer_
+_Data Engineer_
 
-- Promoted to full time role, with responsibilities such as maintaining the data platform's reliability, and building applications to integrate external data with the platform
+- Sole Data Engineer responsible for maintaining and improving the reliability and scalability of the data platform
+- Build applications and integrations to ingest and model data from multiple external sources
+- Work directly with stakeholders to deliver reporting, analytics and automation across the businessPromoted to full time role, with responsibilities such as maintaining the data platform's reliability, and building applications to integrate external data with the platform
 
-**AutogenAI** (March 2024 to September 2021)
+**AutogenAI** (March 2024 to September 2024)
 _Data Engineering Intern_
 
-- Internship with AutogenAI's Data team, focussing on improving automation and alerting. Working with technologies such as AWS, Python, and Docker.
+- Focused on improving observability and automation across pipelines using AWS, Python and Docker
+- Introduced alerting and monitoring to increase platform reliability and reduce operational overhead
+- Contributed to data integration projects and refactoring existing scripts into reusable components
 
 **Albany Beck** (April 2023 to March 2024)
 _Software Pioneer_
 
-- Enrolled in Albany Beck's Tech Academy, focussing on technologies such as Java, MySql and Python, as well as Spring Boot and Jira, and building projects such as Web Applications and RESTful APIs to an industry standard.
+- Completed training programme covering Java, Python, SQL, Spring Boot and Agile delivery
+- Built REST APIs, web applications and backend services to production standards
+- Applied software engineering practices such as TDD, OOP, and CI/CD in team-based projects
 
 **Makers Academy** (April 2021 to July 2021)
 _Software Development Bootcamp Graduate_
@@ -44,11 +50,6 @@ _Software Development Bootcamp Graduate_
 _eCRM Apprentice_
 
 - Worked in the eCRM team, primarily focussed on email marketing, running numerous successful email campaigns including the monthly newsletter, which on its own was sent to over 800k recipients per month. This required high attention to detail and involved coordinating with multiple other teams to get email campaigns ready to send on time.
-
-**Thomas's Battersea** (April 2018 to July 2018)  
-_Gap Year Teaching Assistant_
-
-- On hand to support wherever needed, both in classroom and on the sports field, as well with more admin based tasks, such as working in the admissions department. Responsible for organising of teams, supervising activities, pastoral care.
 
 ## Skills
 
