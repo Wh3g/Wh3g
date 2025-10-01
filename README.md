@@ -97,6 +97,6 @@ _eCRM Apprentice_
 
 ## Hobbies
 
-- Golf
-- Qualified Open Water Diver
-- Coxswain for 1st VIII and 1st IV for Bryanston School Boat Club
+- Chess (1200 on chess.com)
+- Cricket
+- Rugby
